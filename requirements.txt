@@ -1,0 +1,9 @@
+distlib==0.3.7
+filelock==3.13.1
+imutils==0.5.4
+numpy==1.26.4
+opencv-python==4.9.0.80
+platformdirs==4.0.0
+setuptools==69.0.2
+virtualenv==20.24.7
+wheel==0.42.0
